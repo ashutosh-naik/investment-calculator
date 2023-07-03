@@ -1,0 +1,23 @@
+.result {
+  max-width: 60rem;
+  margin: 2rem auto;
+  padding: 1rem;
+  table-layout: fixed;
+  border-spacing: 1rem;
+  text-align: right;
+}
+
+.result thead {
+  font-family: "Inter", "Proxima Nova", "San Francisco", "Helvetica Neue",
+    "Open Sans", "Lato", sans-serif;
+  font-size: 0.8rem;
+  color: #02387b;
+  text-transform: uppercase;
+}
+
+.result tbody {
+  font-family: "Inter", "Proxima Nova", "San Francisco", "Helvetica Neue",
+    "Open Sans", "Lato", sans-serif;
+  font-size: 0.9rem;
+  color: #0070ba;
+}
